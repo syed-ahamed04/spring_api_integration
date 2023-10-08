@@ -1,4 +1,4 @@
-Data Integration Platform README
+Wiseconnect poc
 1. Adapter Service
 Purpose: Accepts JSON data and persists it for further processing.
 
